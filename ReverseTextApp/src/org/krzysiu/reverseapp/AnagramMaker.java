@@ -1,7 +1,5 @@
 package org.krzysiu.reverseapp;
 
-import java.sql.Array;
-import java.util.HashMap;
 
 public class AnagramMaker {
     public static String ReverseText(String inputText){
